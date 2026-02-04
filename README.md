@@ -1,0 +1,1 @@
+# -CUDA-megakernel-for-Qwen3-0.6B
