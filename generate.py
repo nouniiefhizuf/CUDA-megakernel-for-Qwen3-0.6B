@@ -1,4 +1,4 @@
-"""End-to-end token generation using megakernels."""
+""End-to-end token generation using megakernels.""
 import os
 import time
 
